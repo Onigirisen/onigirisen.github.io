@@ -2130,7 +2130,7 @@ input[type="radio"] + label:before {
   font-weight: 400;
 }
 
-.fa-brands:before {
+/* .fa-brands:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
@@ -2141,7 +2141,7 @@ input[type="radio"] + label:before {
   text-transform: none !important;
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
-}
+} */
 
 .icon > .label {
   display: none;
