@@ -2130,6 +2130,19 @@ input[type="radio"] + label:before {
   font-weight: 400;
 }
 
+.fa-brands:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  text-transform: none !important;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+}
+
 .icon > .label {
   display: none;
 }
@@ -2153,10 +2166,10 @@ input[type="radio"] + label:before {
 .fa-brands:before {
   line-height: inherit;
 }
-.fa-brands.solid:before {
+.fa-brands:before {
   font-weight: 900;
 }
-.fa-brands.brands:before {
+.fa-brands:before {
   font-family: "Font Awesome 5 Brands";
 }
 
