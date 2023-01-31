@@ -2557,9 +2557,9 @@ ul.icons li:last-child {
   padding-right: 0 !important;
 }
 
-ul.icons li .icon:before {
+/* ul.icons li .icon:before {
   font-size: 1.25em;
-}
+} */
 
 ul.fa-brands {
   cursor: default;
