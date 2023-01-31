@@ -3504,3 +3504,7 @@ button.resume-button:hover {
   background-color: #00796b;
   cursor: pointer;
 }
+
+ul.projects {
+  list-style-type: square;
+}
